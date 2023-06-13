@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "firstName": "Kim",
+        "lastName": "Jung-Un",
+        "birthdate": "1984-01-08T00:00:00.000Z"
+    },
+    {
+        "id": 2,
+        "firstName": "Idi",
+        "lastName": "Amin",
+        "birthdate": "1925-08-16T00:00:00.000Z"
+    },
+    {
+        "id": 3,
+        "firstName": "Adolf",
+        "lastName": "Hitler",
+        "birthdate": "1889-04-20T00:00:00.000Z"
+    },
+    {
+        "id": 4,
+        "firstName": "Josef",
+        "lastName": "Stalin",
+        "birthdate": "1878-12-18T00:00:00.000Z"
+    },
+    {
+        "id": 5,
+        "firstName": "Than",
+        "lastName": "Shwe",
+        "birthdate": "1933-02-02T00:00:00.000Z"
+    },
+    {
+        "id": 6,
+        "firstName": "Chiang",
+        "lastName": "Kai-shek",
+        "birthdate": "1887-10-31T00:00:00.000Z"
+    },
+    {
+        "id": 7,
+        "firstName": "Robert",
+        "lastName": "Mugabe",
+        "birthdate": "1924-02-21T00:00:00.000Z"
+    },
+    {
+        "id": 8,
+        "firstName": "Omar",
+        "lastName": "al-Bashir",
+        "birthdate": "1944-01-07T00:00:00.000Z"
+    },
+    {
+        "id": 9,
+        "firstName": "Mao",
+        "lastName": "Zedong",
+        "birthdate": "1893-12-26T00:00:00.000Z"
+    },
+    {
+        "id": 10,
+        "firstName": "Ghengis",
+        "lastName": "Khan",
+        "birthdate": "1162-08-25T00:00:00.000Z"
+    },
+    {
+        "id": 11,
+        "firstName": "Pol",
+        "lastName": "Pot",
+        "birthdate": "1925-05-19T00:00:00.000Z"
+    },
+    {
+        "id": 12,
+        "firstName": "Saddam",
+        "lastName": "Hussein",
+        "birthdate": "1937-04-28T00:00:00.000Z"
+    },
+    {
+        "id": 13,
+        "firstName": "Islam",
+        "lastName": "Karimov",
+        "birthdate": "1938-01-30T00:00:00.000Z"
+    },
+    {
+        "id": 14,
+        "firstName": "Ali Hosseini",
+        "lastName": "Khamenei",
+        "birthdate": "1939-04-19T00:00:00.000Z"
+    },
+    {
+        "id": 15,
+        "firstName": "Saparmurat",
+        "lastName": "Niyazov",
+        "birthdate": "1940-02-19T00:00:00.000Z"
+    },
+    {
+        "id": 16,
+        "firstName": "Teodoro",
+        "lastName": "Obiang Nguema Mbasogo",
+        "birthdate": "1942-06-05T00:00:00.000Z"
+    }
+]
